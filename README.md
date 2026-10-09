@@ -346,5 +346,3 @@ Based on the analysis, the business could focus on the following actions:
 - Investigate high-value smaller markets, such as the Netherlands and Australia, to understand why their average order values are relatively high and assess opportunities for further growth.
 - Use multiple KPIs when evaluating markets, combining revenue, order volume and Average Order Value rather than relying on a single metric.
 
-## Results visualization 
-You can check the results in the provided dashboard in the repository 
